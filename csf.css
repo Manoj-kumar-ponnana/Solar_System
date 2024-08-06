@@ -1,0 +1,147 @@
+#mdiv{
+    border-radius: 30PX;
+    height: 1500px;
+    background-color: #0A0A0A;
+    vertical-align: auto;
+    align-content: center;
+}
+#neptune{
+    border: 2px solid whitesmoke;
+    width: 90%;
+    height: 90%;
+    border-radius: 50%;   
+    padding : 5px;
+    align-content: center;
+    vertical-align: auto;
+}
+#uranas{
+    border: 2px solid whitesmoke;
+    width: 85%;
+    height: 85%;
+    border-radius: 50%;   
+    padding : 5px;
+    align-content: center; 
+    vertical-align: top;
+}
+#satrun{
+    border: 2px solid whitesmoke;
+    width: 80%;
+    height: 80%;
+    border-radius: 50%;   
+    padding : 5px;
+    align-content: center; 
+    vertical-align: top;
+}
+#jupiter{
+    border: 2px solid whitesmoke;
+    width: 75%;
+    height: 75%;
+    border-radius: 50%;   
+    padding : 5px;
+    align-content: center; 
+}
+#mars{
+    border: 2px solid whitesmoke;
+    width: 70%;
+    height: 70%;
+    border-radius: 50%;   
+    padding : 5px;
+    align-content: center; 
+}
+#earth{
+    border: 2px solid whitesmoke;
+    width: 65%;
+    height: 65%;
+    border-radius: 50%;   
+    padding : 5px;
+    align-content: center; 
+}
+#venus{
+    border: 2px solid whitesmoke;
+    width: 60%;
+    height: 60%;
+    border-radius: 50%;   
+    padding : 5px;
+    align-content: center; 
+}
+#mercury{
+    border: 2px solid whitesmoke;
+    width: 55%;
+    height: 55%;
+    border-radius: 50%;   
+    padding : 5px;
+    align-content: center; 
+}
+.sun{
+    margin: auto;
+}
+.mec{
+    vertical-align: bottom;
+    margin-bottom: -50px;
+    margin-right: -60px;
+    height: 25px;
+    width: 25px;
+    text-align: right;
+}
+.ven{
+    vertical-align: bottom;
+    margin-bottom: -35px;
+    margin-right: -80px;
+    height: 25px;
+    width: 25px;
+}
+.ear{
+    vertical-align: bottom;
+    margin-bottom: -20%;
+    margin-right: -50%;
+    height: 35px;
+    width: 35px;
+    text-align: right;
+}
+.mar{
+    vertical-align: bottom;
+    margin-bottom: -10%;
+    margin-right: -40%;
+    height: 45px;
+    width: 45px;
+    text-align: right;
+}
+.jup{
+    vertical-align: bottom;
+    margin-bottom: -15%;
+    margin-right: -50%;
+    height: 45px;
+    width: 45px;
+    text-align: right;
+}
+.sat{
+    vertical-align: bottom;
+    margin-bottom: -7%;
+    margin-right: -40%;
+    height: 45px;
+    width: 45px;
+    text-align: right;
+}
+.uran{
+    vertical-align: bottom;
+    margin-bottom: -15%;
+    margin-right: -60%;
+    height: 45px;
+    width: 45px;
+    text-align: left;
+}
+.nep{
+    vertical-align: bottom;
+    margin-bottom: -7%;
+    margin-right: -45%;
+    height: 45px;
+    width: 45px;
+    text-align: right;
+}
+h1{
+    background-color: black;
+    color: white;
+    margin-left: 35%;
+    margin-right: 35%;
+    border-radius: 30px;
+}
